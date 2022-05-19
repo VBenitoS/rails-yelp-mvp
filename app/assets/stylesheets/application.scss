@@ -15,6 +15,8 @@
 h1 {
   margin-bottom: 20px;
   margin-left: 20px;
+  color: #BC4749;
+  text-shadow: 1px 1px 2px #F2E8CF;
 }
 ul {
   list-style: none;
@@ -44,6 +46,7 @@ li:hover {
 }
 .addbtn {
   margin-left: 10px;
+  margin-right: 20px;
 }
 .btn {
   background-color: #BC4749;
@@ -62,7 +65,7 @@ li:hover {
   border-bottom: 1px solid #bc4749;
   margin: 0;
   padding: 0;
-  margin-right: 0;
+  max-width: unset;
 }
 .list {
   margin-top: 46px;
